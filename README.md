@@ -9,6 +9,6 @@ Los archivos:
     Espurna es el firmware que se le cargo a este dispositivo.
     Esptool.py es con el que se puede configurar el mismo.
 El Link de ayuda principal es:
-https://github.com/xoseperez/espurna.wiki.git
+https://github.com/xoseperez/espurna/wiki
 
 Un error que tuve era que cada vez que hacia cualquier paso se debia desconectar y volver a entrar en modo boot.
